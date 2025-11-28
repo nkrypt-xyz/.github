@@ -67,7 +67,7 @@ We believe in community-driven security. Whether you are a developer, a security
 
 - 🌐 **Website:** [nkrypt.xyz](https://nkrypt.xyz/)
 - 📱 **MVP Web App:** [pwa.mvp.nkrypt.xyz](https://pwa.mvp.nkrypt.xyz/)
-- 📧 **Contact:** [nkrypt.xyz@protonmail.com](mailto:nkrypt.xyz@protonmail.com)
+- 📧 **Contact:** [nkrypt.xyz.support@proton.me](mailto:nkrypt.xyz.support@proton.me)
 
 ---
 
