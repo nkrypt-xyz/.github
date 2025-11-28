@@ -1,8 +1,8 @@
 # Welcome to nkrypt.xyz 👋
 
-> **Free and Open Source End-to-End Encrypted, Self-hosted, Programmable Containers for everything you want to secure.**
+Free and Open Source End-to-End Encrypted, Self-hosted, Programmable Containers for everything you want to secure.
 
-Privacy should not be an afterthought. What is meant for your eyes and your eyes only, we make sure it stays that way.
+> Privacy is a sacred trust we hold in the highest reverence.
 
 ---
 
